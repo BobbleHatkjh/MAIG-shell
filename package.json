@@ -1,0 +1,14 @@
+{
+  "name": "maig-cli",
+  "version": "0.1.9",
+  "description": "maig命令行脚手架",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "bobblehat",
+  "license": "MIT",
+  "bin": {
+    "maig": "index.js"
+  }
+}
